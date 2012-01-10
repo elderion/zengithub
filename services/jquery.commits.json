@@ -1,0 +1,1270 @@
+[
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/d7afc8aa78c9123f368a86038c55375c27c25e0c",
+        "sha": "d7afc8aa78c9123f368a86038c55375c27c25e0c"
+      }
+    ],
+    "author": {
+      "login": "gseguin",
+      "gravatar_id": "90375e30c8b907a9bf7d285b5b9da5f0",
+      "avatar_url": "https://secure.gravatar.com/avatar/90375e30c8b907a9bf7d285b5b9da5f0?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/gseguin",
+      "id": 373923
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/42c940966021e5c94a87ee3fb28003c69d882034",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/1830aa50814f984455a46d62d7ad269df3bd7382",
+        "sha": "1830aa50814f984455a46d62d7ad269df3bd7382"
+      },
+      "message": "Fixed wrong line break",
+      "author": {
+        "email": "ghislain@gmail.com",
+        "date": "2012-01-06T17:14:48-08:00",
+        "name": "Ghislain Seguin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/42c940966021e5c94a87ee3fb28003c69d882034",
+      "committer": {
+        "email": "ghislain@gmail.com",
+        "date": "2012-01-06T17:14:48-08:00",
+        "name": "Ghislain Seguin"
+      }
+    },
+    "sha": "42c940966021e5c94a87ee3fb28003c69d882034",
+    "committer": {
+      "login": "gseguin",
+      "gravatar_id": "90375e30c8b907a9bf7d285b5b9da5f0",
+      "avatar_url": "https://secure.gravatar.com/avatar/90375e30c8b907a9bf7d285b5b9da5f0?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/gseguin",
+      "id": 373923
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/cf611bc1c7ab5ef05c52272599cff8639bebfad8",
+        "sha": "cf611bc1c7ab5ef05c52272599cff8639bebfad8"
+      }
+    ],
+    "author": {
+      "login": "Wilto",
+      "gravatar_id": "36386473ee7de091db26bd82f8d18ca8",
+      "avatar_url": "https://secure.gravatar.com/avatar/36386473ee7de091db26bd82f8d18ca8?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/Wilto",
+      "id": 439942
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/d7afc8aa78c9123f368a86038c55375c27c25e0c",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/587447034cd3be2781f17d8bd21e9d2f41e3c23a",
+        "sha": "587447034cd3be2781f17d8bd21e9d2f41e3c23a"
+      },
+      "message": "Added download builder metadata.",
+      "author": {
+        "email": "mat@matmarquis.com",
+        "date": "2012-01-06T16:28:54-08:00",
+        "name": "Mat Marquis"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/d7afc8aa78c9123f368a86038c55375c27c25e0c",
+      "committer": {
+        "email": "mat@matmarquis.com",
+        "date": "2012-01-06T16:31:31-08:00",
+        "name": "Mat Marquis"
+      }
+    },
+    "sha": "d7afc8aa78c9123f368a86038c55375c27c25e0c",
+    "committer": {
+      "login": "Wilto",
+      "gravatar_id": "36386473ee7de091db26bd82f8d18ca8",
+      "avatar_url": "https://secure.gravatar.com/avatar/36386473ee7de091db26bd82f8d18ca8?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/Wilto",
+      "id": 439942
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/f60dd961788c7fe23b4e80882f968484fe372355",
+        "sha": "f60dd961788c7fe23b4e80882f968484fe372355"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/cf611bc1c7ab5ef05c52272599cff8639bebfad8",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/d961debc9914481ca2375ded8f59b75012481fb1",
+        "sha": "d961debc9914481ca2375ded8f59b75012481fb1"
+      },
+      "message": "conceding defeat on determining the load order issue that's causing the test failure",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-06T13:21:50-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/cf611bc1c7ab5ef05c52272599cff8639bebfad8",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-06T15:27:21-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "cf611bc1c7ab5ef05c52272599cff8639bebfad8",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/12f112d6d47cb06c815c5e5718fef6b461222320",
+        "sha": "12f112d6d47cb06c815c5e5718fef6b461222320"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/f60dd961788c7fe23b4e80882f968484fe372355",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/9b61d7127301c876eb422095db1c985e704cf4fa",
+        "sha": "9b61d7127301c876eb422095db1c985e704cf4fa"
+      },
+      "message": "remove duplicate test run",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-06T11:58:37-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/f60dd961788c7fe23b4e80882f968484fe372355",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-06T15:27:21-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "f60dd961788c7fe23b4e80882f968484fe372355",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/cc54ede5f0903da19d0bb279f38f8d186ce18f51",
+        "sha": "cc54ede5f0903da19d0bb279f38f8d186ce18f51"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/12f112d6d47cb06c815c5e5718fef6b461222320",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/3ccb183af22eb12c9e10bccd808e00b1063e0f89",
+        "sha": "3ccb183af22eb12c9e10bccd808e00b1063e0f89"
+      },
+      "message": "check to make sure cached test page appears",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-05T15:26:17-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/12f112d6d47cb06c815c5e5718fef6b461222320",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-06T15:27:21-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "12f112d6d47cb06c815c5e5718fef6b461222320",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/f0cc30719d57236a34ad0c1cd1c7ada5c9a7759e",
+        "sha": "f0cc30719d57236a34ad0c1cd1c7ada5c9a7759e"
+      },
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/23b2d7f0b4cc2308014dde33cacf624cc7845f8e",
+        "sha": "23b2d7f0b4cc2308014dde33cacf624cc7845f8e"
+      }
+    ],
+    "author": {
+      "login": "gseguin",
+      "gravatar_id": "90375e30c8b907a9bf7d285b5b9da5f0",
+      "avatar_url": "https://secure.gravatar.com/avatar/90375e30c8b907a9bf7d285b5b9da5f0?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/gseguin",
+      "id": 373923
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/cc54ede5f0903da19d0bb279f38f8d186ce18f51",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/885352a174abf53eb110f0d5babadeae7f893696",
+        "sha": "885352a174abf53eb110f0d5babadeae7f893696"
+      },
+      "message": "Merge pull request #3385 from eddiemonge/patch-13\n\nincrease java cache size",
+      "author": {
+        "email": "ghislain@gmail.com",
+        "date": "2012-01-06T11:44:06-08:00",
+        "name": "Ghislain Seguin"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/cc54ede5f0903da19d0bb279f38f8d186ce18f51",
+      "committer": {
+        "email": "ghislain@gmail.com",
+        "date": "2012-01-06T11:44:06-08:00",
+        "name": "Ghislain Seguin"
+      }
+    },
+    "sha": "cc54ede5f0903da19d0bb279f38f8d186ce18f51",
+    "committer": {
+      "login": "gseguin",
+      "gravatar_id": "90375e30c8b907a9bf7d285b5b9da5f0",
+      "avatar_url": "https://secure.gravatar.com/avatar/90375e30c8b907a9bf7d285b5b9da5f0?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/gseguin",
+      "id": 373923
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/1a5224047b9a0e1302923adc96f77238489c9da1",
+        "sha": "1a5224047b9a0e1302923adc96f77238489c9da1"
+      }
+    ],
+    "author": {
+      "login": "jblas",
+      "gravatar_id": "fa72320f7fd01aa7d743768f85ccf9ea",
+      "avatar_url": "https://secure.gravatar.com/avatar/fa72320f7fd01aa7d743768f85ccf9ea?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/jblas",
+      "id": 394996
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/f0cc30719d57236a34ad0c1cd1c7ada5c9a7759e",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/9689be4a8d7379a67e2d785b3c3cfcea70e27701",
+        "sha": "9689be4a8d7379a67e2d785b3c3cfcea70e27701"
+      },
+      "message": "Corrected the title for the functional test.",
+      "author": {
+        "email": "jblas@adobe.com",
+        "date": "2012-01-06T10:23:54-08:00",
+        "name": "jblas@adobe.com"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/f0cc30719d57236a34ad0c1cd1c7ada5c9a7759e",
+      "committer": {
+        "email": "jblas@adobe.com",
+        "date": "2012-01-06T10:23:54-08:00",
+        "name": "jblas@adobe.com"
+      }
+    },
+    "sha": "f0cc30719d57236a34ad0c1cd1c7ada5c9a7759e",
+    "committer": {
+      "login": "jblas",
+      "gravatar_id": "fa72320f7fd01aa7d743768f85ccf9ea",
+      "avatar_url": "https://secure.gravatar.com/avatar/fa72320f7fd01aa7d743768f85ccf9ea?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/jblas",
+      "id": 394996
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/3cea545f735be20c0204bb68699509a8b530a725",
+        "sha": "3cea545f735be20c0204bb68699509a8b530a725"
+      }
+    ],
+    "author": {
+      "login": "jblas",
+      "gravatar_id": "fa72320f7fd01aa7d743768f85ccf9ea",
+      "avatar_url": "https://secure.gravatar.com/avatar/fa72320f7fd01aa7d743768f85ccf9ea?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/jblas",
+      "id": 394996
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/1a5224047b9a0e1302923adc96f77238489c9da1",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/ce278fe43dd173b648a4583cffcb886c2b980a3d",
+        "sha": "ce278fe43dd173b648a4583cffcb886c2b980a3d"
+      },
+      "message": "Fix for issue #2933 - get_orientation() and hence getScreenHeight() doesn't work on some devices\n\nIt seems that some device/browser vendors use window.orientation values 0 and 180 to denote the \"default\" orientation. For iOS devices, and most other smart-phones tested, the default orientation is always \"portrait\", but in some Android and RIM based tablets, the default orientation is \"landscape\".\n\n- Modified the orientationchange plugin so that it injects a landscape orientation media query into the document to figure out what the initial orientation is, it then makes adjustments to a portrait_map if necessary, so that we can properly decode the window.orientation value whenever get_orientation() is called.",
+      "author": {
+        "email": "jblas@adobe.com",
+        "date": "2012-01-06T10:19:04-08:00",
+        "name": "jblas@adobe.com"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/1a5224047b9a0e1302923adc96f77238489c9da1",
+      "committer": {
+        "email": "jblas@adobe.com",
+        "date": "2012-01-06T10:19:04-08:00",
+        "name": "jblas@adobe.com"
+      }
+    },
+    "sha": "1a5224047b9a0e1302923adc96f77238489c9da1",
+    "committer": {
+      "login": "jblas",
+      "gravatar_id": "fa72320f7fd01aa7d743768f85ccf9ea",
+      "avatar_url": "https://secure.gravatar.com/avatar/fa72320f7fd01aa7d743768f85ccf9ea?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/jblas",
+      "id": 394996
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/8cbbb8076dbaed19ec3e3c06825901a4764cbc50",
+        "sha": "8cbbb8076dbaed19ec3e3c06825901a4764cbc50"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/3cea545f735be20c0204bb68699509a8b530a725",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/0f73f5ec0f8005ce100188a2ada2ccec0fd65124",
+        "sha": "0f73f5ec0f8005ce100188a2ada2ccec0fd65124"
+      },
+      "message": "enforce test order ... dying a little inside",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-05T14:23:17-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/3cea545f735be20c0204bb68699509a8b530a725",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-05T14:23:17-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "3cea545f735be20c0204bb68699509a8b530a725",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/8cbbb8076dbaed19ec3e3c06825901a4764cbc50",
+        "sha": "8cbbb8076dbaed19ec3e3c06825901a4764cbc50"
+      }
+    ],
+    "author": {
+      "login": "eddiemonge",
+      "gravatar_id": "08a01ffbfa6e039295208f023dec0dae",
+      "avatar_url": "https://secure.gravatar.com/avatar/08a01ffbfa6e039295208f023dec0dae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/eddiemonge",
+      "id": 127535
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/23b2d7f0b4cc2308014dde33cacf624cc7845f8e",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/325730657e04b0535b785d25b30848431c6b0206",
+        "sha": "325730657e04b0535b785d25b30848431c6b0206"
+      },
+      "message": "increase java cache size",
+      "author": {
+        "email": "eddie@eddiemonge.com",
+        "date": "2012-01-05T11:55:34-08:00",
+        "name": "Eddie Monge Jr."
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/23b2d7f0b4cc2308014dde33cacf624cc7845f8e",
+      "committer": {
+        "email": "eddie@eddiemonge.com",
+        "date": "2012-01-05T11:55:34-08:00",
+        "name": "Eddie Monge Jr."
+      }
+    },
+    "sha": "23b2d7f0b4cc2308014dde33cacf624cc7845f8e",
+    "committer": {
+      "login": "eddiemonge",
+      "gravatar_id": "08a01ffbfa6e039295208f023dec0dae",
+      "avatar_url": "https://secure.gravatar.com/avatar/08a01ffbfa6e039295208f023dec0dae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/eddiemonge",
+      "id": 127535
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/4624dcfa13a36d5a2fc059570c5bdd19f7f3b5ec",
+        "sha": "4624dcfa13a36d5a2fc059570c5bdd19f7f3b5ec"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/8cbbb8076dbaed19ec3e3c06825901a4764cbc50",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/f54dcd5a5820fa54941e5a09d1af92fdccd908d9",
+        "sha": "f54dcd5a5820fa54941e5a09d1af92fdccd908d9"
+      },
+      "message": "remove submodule update note",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-05T11:14:37-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/8cbbb8076dbaed19ec3e3c06825901a4764cbc50",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-05T11:14:37-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "8cbbb8076dbaed19ec3e3c06825901a4764cbc50",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/a9daa06158d1262465ec427a347ed5bdd891d025",
+        "sha": "a9daa06158d1262465ec427a347ed5bdd891d025"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/4624dcfa13a36d5a2fc059570c5bdd19f7f3b5ec",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/16eaa8780ed5edfdc31dfac778c4c7b08f94ed42",
+        "sha": "16eaa8780ed5edfdc31dfac778c4c7b08f94ed42"
+      },
+      "message": "vendor r.js and require.js",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-05T10:36:50-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/4624dcfa13a36d5a2fc059570c5bdd19f7f3b5ec",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-05T10:36:50-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "4624dcfa13a36d5a2fc059570c5bdd19f7f3b5ec",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/98ed3fc31b123df44bc793e28447f1bd0a7e0bc9",
+        "sha": "98ed3fc31b123df44bc793e28447f1bd0a7e0bc9"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/a9daa06158d1262465ec427a347ed5bdd891d025",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/cb6e89d1280c685d055b5fa748b42ec96b5d7f73",
+        "sha": "cb6e89d1280c685d055b5fa748b42ec96b5d7f73"
+      },
+      "message": "remove requirejs and r.js submodules in favor of vendoring the libraries",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-05T10:32:46-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/a9daa06158d1262465ec427a347ed5bdd891d025",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-05T10:32:46-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "a9daa06158d1262465ec427a347ed5bdd891d025",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/3c2bfaca8a4b32d8bbed7a06e610b174bf979d8c",
+        "sha": "3c2bfaca8a4b32d8bbed7a06e610b174bf979d8c"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/98ed3fc31b123df44bc793e28447f1bd0a7e0bc9",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/2531c20329eeb94720ab087a12899ccfaee0f452",
+        "sha": "2531c20329eeb94720ab087a12899ccfaee0f452"
+      },
+      "message": "add submodule update/init to readme",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T16:00:41-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/98ed3fc31b123df44bc793e28447f1bd0a7e0bc9",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T16:00:41-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "98ed3fc31b123df44bc793e28447f1bd0a7e0bc9",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/0b1829967d3ce98a9e746d98f01343328ac13c30",
+        "sha": "0b1829967d3ce98a9e746d98f01343328ac13c30"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/3c2bfaca8a4b32d8bbed7a06e610b174bf979d8c",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/adac2866e40fdcfc11ede4cbdbe17b2447434f4c",
+        "sha": "adac2866e40fdcfc11ede4cbdbe17b2447434f4c"
+      },
+      "message": "remove define stub, it's now stubbed through including jquery.mobile.define.js in js/index.php",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T14:26:03-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/3c2bfaca8a4b32d8bbed7a06e610b174bf979d8c",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T14:26:03-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "3c2bfaca8a4b32d8bbed7a06e610b174bf979d8c",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/ea01f9f9602a7c6fe6b3ac5d715fd0885b606ade",
+        "sha": "ea01f9f9602a7c6fe6b3ac5d715fd0885b606ade"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/0b1829967d3ce98a9e746d98f01343328ac13c30",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/c3bf9721fce19998fb6833a4cce5638f2c87ea67",
+        "sha": "c3bf9721fce19998fb6833a4cce5638f2c87ea67"
+      },
+      "message": "obviate the need for stub definition of define when using vanilla /js require",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T14:21:57-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/0b1829967d3ce98a9e746d98f01343328ac13c30",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T14:21:57-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "0b1829967d3ce98a9e746d98f01343328ac13c30",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/bafd0cdf9fc7dc098cb70acd86715780ae3bd1e2",
+        "sha": "bafd0cdf9fc7dc098cb70acd86715780ae3bd1e2"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/ea01f9f9602a7c6fe6b3ac5d715fd0885b606ade",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/fb5c846a9a68914f77d73a822306e2ae549fc7d1",
+        "sha": "fb5c846a9a68914f77d73a822306e2ae549fc7d1"
+      },
+      "message": "update functional tests to use requirejs",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T14:04:18-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/ea01f9f9602a7c6fe6b3ac5d715fd0885b606ade",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T14:04:18-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "ea01f9f9602a7c6fe6b3ac5d715fd0885b606ade",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/22504c76136a2436dc1ddac9fc55c8bb7dc375bd",
+        "sha": "22504c76136a2436dc1ddac9fc55c8bb7dc375bd"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/bafd0cdf9fc7dc098cb70acd86715780ae3bd1e2",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/7a83588eccbc8beac86b4f6ecde5cf166064a1f9",
+        "sha": "7a83588eccbc8beac86b4f6ecde5cf166064a1f9"
+      },
+      "message": "add ui-mobile-rendering to docs to temprarily prevent fouc with async load. @gseguin to address with jqm-docs.js change",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T13:59:17-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/bafd0cdf9fc7dc098cb70acd86715780ae3bd1e2",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T13:59:17-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "bafd0cdf9fc7dc098cb70acd86715780ae3bd1e2",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/b47d9ba24edd75fc55ad9d0f9f6c6635f286f91e",
+        "sha": "b47d9ba24edd75fc55ad9d0f9f6c6635f286f91e"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/22504c76136a2436dc1ddac9fc55c8bb7dc375bd",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/075ce9be410a700ff952b46dab54a85364974fd5",
+        "sha": "075ce9be410a700ff952b46dab54a85364974fd5"
+      },
+      "message": "switch to explicit false check to avoid undefined issues",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T13:14:43-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/22504c76136a2436dc1ddac9fc55c8bb7dc375bd",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T13:14:43-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "22504c76136a2436dc1ddac9fc55c8bb7dc375bd",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/95073892f0c3111c5b89db8118f0ecf6f186dca5",
+        "sha": "95073892f0c3111c5b89db8118f0ecf6f186dca5"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/b47d9ba24edd75fc55ad9d0f9f6c6635f286f91e",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/5f69ca98a9b54ddd6d5a8e55b8ae38496b7d20fc",
+        "sha": "5f69ca98a9b54ddd6d5a8e55b8ae38496b7d20fc"
+      },
+      "message": "fix async loading select test issue where keepnative isn't defined in time for the leading test",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T13:13:09-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/b47d9ba24edd75fc55ad9d0f9f6c6635f286f91e",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T13:13:24-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "b47d9ba24edd75fc55ad9d0f9f6c6635f286f91e",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/573fcf8668875a737d8a90b58097c4b23f631998",
+        "sha": "573fcf8668875a737d8a90b58097c4b23f631998"
+      },
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/db42f18ed58f9d1719d5edeaab24f743f9d5ce15",
+        "sha": "db42f18ed58f9d1719d5edeaab24f743f9d5ce15"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/95073892f0c3111c5b89db8118f0ecf6f186dca5",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/dc002e6f9dc5c3ffd0834a8e5a8f800d9467271c",
+        "sha": "dc002e6f9dc5c3ffd0834a8e5a8f800d9467271c"
+      },
+      "message": "Merge branch 'amd'",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T12:24:33-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/95073892f0c3111c5b89db8118f0ecf6f186dca5",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T12:24:33-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "95073892f0c3111c5b89db8118f0ecf6f186dca5",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/c9eed4e8b75c022581c8f65f6c38515e26642abc",
+        "sha": "c9eed4e8b75c022581c8f65f6c38515e26642abc"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/db42f18ed58f9d1719d5edeaab24f743f9d5ce15",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/22170f299cb053e84576a348068fdb1f1d6fdcc9",
+        "sha": "22170f299cb053e84576a348068fdb1f1d6fdcc9"
+      },
+      "message": "note about fouc",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T12:00:17-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/db42f18ed58f9d1719d5edeaab24f743f9d5ce15",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T12:00:17-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "db42f18ed58f9d1719d5edeaab24f743f9d5ce15",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/e26d7de1a9264ced24b3ce1cab368d0090bcb5fe",
+        "sha": "e26d7de1a9264ced24b3ce1cab368d0090bcb5fe"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/c9eed4e8b75c022581c8f65f6c38515e26642abc",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/9c400e190e8c4b50e904332705a9399f6e770c62",
+        "sha": "9c400e190e8c4b50e904332705a9399f6e770c62"
+      },
+      "message": "whitespace in readme",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:59:02-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/c9eed4e8b75c022581c8f65f6c38515e26642abc",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:59:02-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "c9eed4e8b75c022581c8f65f6c38515e26642abc",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/8ea0bddccc129b7c1108b5d2d68c57c9f3cc2665",
+        "sha": "8ea0bddccc129b7c1108b5d2d68c57c9f3cc2665"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/e26d7de1a9264ced24b3ce1cab368d0090bcb5fe",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/faeac16e4c1fe2a2f2fda4362f7358d7edf012fe",
+        "sha": "faeac16e4c1fe2a2f2fda4362f7358d7edf012fe"
+      },
+      "message": "added note about local server support for development",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:58:46-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/e26d7de1a9264ced24b3ce1cab368d0090bcb5fe",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:58:46-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "e26d7de1a9264ced24b3ce1cab368d0090bcb5fe",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/6e8433d395ef1c4f9d29c818106ca98087cbe4d0",
+        "sha": "6e8433d395ef1c4f9d29c818106ca98087cbe4d0"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/8ea0bddccc129b7c1108b5d2d68c57c9f3cc2665",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/8bf65b67931ad050214af86cc7bd9196b2ccfb54",
+        "sha": "8bf65b67931ad050214af86cc7bd9196b2ccfb54"
+      },
+      "message": "ensure defaultTransitionHandler is defined after the navigation has been loaded",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:38:32-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/8ea0bddccc129b7c1108b5d2d68c57c9f3cc2665",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:46:35-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "8ea0bddccc129b7c1108b5d2d68c57c9f3cc2665",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/223ad8daab91fa1ade0e49ca857ce67139f7028b",
+        "sha": "223ad8daab91fa1ade0e49ca857ce67139f7028b"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/6e8433d395ef1c4f9d29c818106ca98087cbe4d0",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/91c04f785c561f5cdb068b40432d43188bdfbd31",
+        "sha": "91c04f785c561f5cdb068b40432d43188bdfbd31"
+      },
+      "message": "ensure defaultTransitionHandler is defined after the navigation has been loaded",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:38:32-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/6e8433d395ef1c4f9d29c818106ca98087cbe4d0",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:38:32-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "6e8433d395ef1c4f9d29c818106ca98087cbe4d0",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/bda2834accf6de4bb745e308a5577c66c20817ee",
+        "sha": "bda2834accf6de4bb745e308a5577c66c20817ee"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/223ad8daab91fa1ade0e49ca857ce67139f7028b",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/2a276a013bf31076d193972caa9104815d1418cf",
+        "sha": "2a276a013bf31076d193972caa9104815d1418cf"
+      },
+      "message": "move to reloadModule as it returns a deferred",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:26:36-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/223ad8daab91fa1ade0e49ca857ce67139f7028b",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:26:36-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "223ad8daab91fa1ade0e49ca857ce67139f7028b",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/0a48b9168f179fdebca8b0b81935de834be8cc3f",
+        "sha": "0a48b9168f179fdebca8b0b81935de834be8cc3f"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/bda2834accf6de4bb745e308a5577c66c20817ee",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/4b9f2c969281362dc9dde83970d989dbb1af39db",
+        "sha": "4b9f2c969281362dc9dde83970d989dbb1af39db"
+      },
+      "message": "make sure the slider core runs before init to set keepNative properly",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:23:21-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/bda2834accf6de4bb745e308a5577c66c20817ee",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:23:21-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "bda2834accf6de4bb745e308a5577c66c20817ee",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/dc3e42ec8637e2c4eacdb3576eb9671258e9b1ea",
+        "sha": "dc3e42ec8637e2c4eacdb3576eb9671258e9b1ea"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/0a48b9168f179fdebca8b0b81935de834be8cc3f",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/8cb7e754a41303bd9af5cbeece82b3653a073561",
+        "sha": "8cb7e754a41303bd9af5cbeece82b3653a073561"
+      },
+      "message": "update select cached tests to use async",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:10:04-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/0a48b9168f179fdebca8b0b81935de834be8cc3f",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:10:04-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "0a48b9168f179fdebca8b0b81935de834be8cc3f",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  },
+  {
+    "parents": [
+      {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/912a7e852ff496abecc33a9ed91f8ed05f3ad8f3",
+        "sha": "912a7e852ff496abecc33a9ed91f8ed05f3ad8f3"
+      }
+    ],
+    "author": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    },
+    "url": "https://api.github.com/repos/jquery/jquery-mobile/commits/dc3e42ec8637e2c4eacdb3576eb9671258e9b1ea",
+    "commit": {
+      "tree": {
+        "url": "https://api.github.com/repos/jquery/jquery-mobile/git/trees/c1af7bc6e84d0c28f411cda4d3708fbb8eccb0d5",
+        "sha": "c1af7bc6e84d0c28f411cda4d3708fbb8eccb0d5"
+      },
+      "message": "update listview pushstate test to use async",
+      "author": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:08:21-08:00",
+        "name": "John Bender"
+      },
+      "url": "https://api.github.com/repos/jquery/jquery-mobile/git/commits/dc3e42ec8637e2c4eacdb3576eb9671258e9b1ea",
+      "committer": {
+        "email": "john.m.bender@gmail.com",
+        "date": "2012-01-04T11:08:21-08:00",
+        "name": "John Bender"
+      }
+    },
+    "sha": "dc3e42ec8637e2c4eacdb3576eb9671258e9b1ea",
+    "committer": {
+      "login": "johnbender",
+      "gravatar_id": "20196c9dc97267632ce6e6b778361eae",
+      "avatar_url": "https://secure.gravatar.com/avatar/20196c9dc97267632ce6e6b778361eae?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+      "url": "https://api.github.com/users/johnbender",
+      "id": 23505
+    }
+  }
+]
