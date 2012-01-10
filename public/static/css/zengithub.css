@@ -1,0 +1,142 @@
+body {
+	background-position: 0px 0px;
+	background-repeat: repeat-x;
+	width: 950px;
+	padding: 0px 20px 10px 20px;
+	height: 100%;
+	margin:auto;
+	margin-bottom: 10px;
+	margin-top: 7px;
+	font-size: 0.8em;
+}
+
+h1 {
+	font-size: 1.2em;	
+}
+h2 {
+	font-size:1.1em;
+}
+form div  {
+	padding:10px;
+}
+form div label {
+	width: 200px;
+	float: left;
+	line-height: 40px;
+}	
+
+#repository {
+	color: #000;
+	height:35px;
+	border:1px solid #cccccc;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-moz-box-shadow: 1px 1px 6px #000000;
+	-webkit-box-shadow: 1px 1px 6px #000000;
+	box-shadow:1px 1px 6px #dddddd;
+	background-color: #ffffff;
+	font-size: 1.7em;
+	padding-left: 45px;
+	background-image:url(../images/loupe.png) ;
+	background-repeat: no-repeat;
+	background-position: 5px 3px;
+}
+.slotAjaxLoader {
+	margin:  auto;
+	width: 32px;
+	/*height: 32px;*/
+}
+img.ajax-loader {
+	display: none;
+	
+}
+
+.slot  {
+	float: left;
+}
+.slot height: auto;
+	h2 {
+	text-align: center;
+}
+
+#UICanvas {
+	display: none;
+}
+
+#areaCommiters {
+	width: 40%;
+	padding-bottom: 10px;	
+}
+
+#areaGraphs {
+	width:59%;
+	border-left: 1px solid #ccc;
+}
+#areaGraphs h2 {
+	text-indent: 20px;
+}
+div.datagrid {
+	width:98%;
+	max-height:250px !important;
+	overflow: auto;
+}
+table.datagrid {
+	width: 100%;
+	border-collapse: collapse;
+}
+ 
+div.datagrid table tr  { 
+	opacity:0.7;
+	-webkit-transition: opacity 0.3s ease-in-out;
+	-moz-transition: opacity 1s ease-in-out;
+	-o-transition: opacity 1s ease-in-out;
+	-ms-transition: opacity 1s ease-in-out;	
+	transition: opacity 1s ease-in-out;
+}
+div.datagrid table tr:hover {
+	opacity:1;
+	-webkit-transition: opacity 0.3s ease-in-out;
+	-moz-transition: opacity 1s ease-in-out;
+	-o-transition: opacity 1s ease-in-out;
+	-ms-transition: opacity 1s ease-in-out;	
+	transition: opacity 1s ease-in-out;
+}
+
+div#datagridHeader div.header {
+	border-bottom:1px solid #ccc;
+	float:left;
+	text-indent: 2px;
+}
+div#datagridHeader div.header.committer {
+	text-indent: 15px;
+	width:60%;
+}
+div#datagridHeader div.header.count {
+	width:37%;
+}
+
+div.datagrid td.avatar {
+	width:12%;
+	text-align: right;
+}
+
+
+div.datagrid td.commiter {
+	width:50%;
+	text-indent: 15px;
+}
+div.datagrid td.count {
+	border-left: 1px solid  #ccc; 
+	text-indent: 10px;	
+}
+div.datagrid td.avatar img {
+	width: 30px;
+	height:30px;
+}
+#areaTimeline {
+	width: 100%
+}
+#areaTimeline h2 {
+	
+}
